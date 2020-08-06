@@ -11,6 +11,8 @@ public class Window extends JFrame{
 		setLayout(null);
 		setResizable(false);
 		setVisible(true);
+		System.out.println("HI");
+		System.out.println("Hi nmr 2");
 	}
 	
 	@Test
